@@ -1,4 +1,5 @@
 ### Hi i am Amjad yabroudi 👋
+i am a software engineer graduate trying to become a flutter developer
 
 <!--
 **Amjadyabroudi128/Amjadyabroudi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
