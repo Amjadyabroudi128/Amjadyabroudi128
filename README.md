@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi i am Amjad yabroudi 👋
 
 <!--
 **Amjadyabroudi128/Amjadyabroudi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
