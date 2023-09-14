@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/amjadyabroudi" target="blank"><img src="https://img.shields.io/twitter/follow/amjadyabroudi?logo=twitter&style=for-the-badge" alt="amjadyabroudi" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
+
 - 🔭 I’m currently working on **to do app**
 
 - 🌱 I’m currently learning **Flutter Stage-management**
