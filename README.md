@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **to do app**
 
-- 🌱 I’m currently learning **Flutter Stage-management**
+- 🌱 I’m currently learning **Flutter State-management: provider, bloc...**
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
 
