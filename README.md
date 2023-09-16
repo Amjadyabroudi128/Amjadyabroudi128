@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **Flutter State-management: provider, bloc...**
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
+  **https://www.linkedin.com/in/amjad-yabroudi/**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
