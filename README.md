@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Amjad yabroudi</h1>
-<h3 align="center">a software engineer graduate trying to become a flutter developer</h3>
+<h3 align="center">i am a software engineer graduate trying to become a flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadyabroudi128&label=Profile%20views&color=0e75b6&style=flat" alt="amjadyabroudi128" /> </p>
 
@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
 
-- 🔭 I’m currently working on **improving dart**
+- 🔭 I’m currently working on **note taking app **
 
 - 🌱 I’m currently learning **Flutter State-management: provider, bloc...**
 
