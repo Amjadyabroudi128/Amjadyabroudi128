@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
 
-- 🔭 I’m currently working on **a couple of apps: note app, to do app and API apps**
+- 🔭 I’m currently working on **learning Bloc Cubit**
 
 - 🌱 I’m currently learning **Flutter State-management: provider, bloc...**
 
