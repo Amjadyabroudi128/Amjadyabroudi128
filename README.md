@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
   **https://www.linkedin.com/in/amjad-yabroudi/**
-- i need help with **Image picker and push notification**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amjadyabroudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amjadyabroudi" height="30" width="40" /></a>
