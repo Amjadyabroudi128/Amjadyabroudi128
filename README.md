@@ -7,9 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
 
-- 🔭 I’m currently working on **learning Bloc Cubit**
+- 🔭 I’m currently working on **newsapp with bloc**
+- i am currently learning **BloC**
 
-- 🌱 I’m currently learning **Flutter State-management: provider, bloc...**
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
   **https://www.linkedin.com/in/amjad-yabroudi/**
