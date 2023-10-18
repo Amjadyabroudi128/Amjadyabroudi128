@@ -8,7 +8,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/oTeBa4EVepMAAAAM/business-cat-working.gif">
 
 - 🔭 I’m currently working on **newsapp with bloc**
-- i am currently learning **BloC**
+- i am currently learning **BloC, MVVM Architecture**
+ 
 
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
