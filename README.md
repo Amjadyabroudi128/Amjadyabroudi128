@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on **newsapp with bloc**
 - i am currently learning **BloC, MVVM Architecture**
+- also learning **some laravel backend**
  
 
 
