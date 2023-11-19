@@ -7,7 +7,8 @@
 
 
 - 🔭 I’m currently working on **book me app**
-- i am currently learning **BloC, Figma, FlutterFlow**
+- i am currently learning **BloC, Figma,**
+- looking for a flutter Development position 
  
 
 
