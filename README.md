@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/amjadyabroudi" target="blank"><img src="https://img.shields.io/twitter/follow/amjadyabroudi?logo=twitter&style=for-the-badge" alt="amjadyabroudi" /></a> </p>
 
 
-- 🔭 I’m currently working on **note app**
+- 🔭 I’m currently working on **note app using Firebase**
 - i am currently learning **BloC, Figma, Firebase auth, Firebase Email Verification, Firebase Push Notification, storage and database, as well as rest APIs**
 - looking for a flutter Development position 
  
