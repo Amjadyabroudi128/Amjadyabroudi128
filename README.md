@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **note app using Firebase**
-- I am Learning **Mastering Firebase**
+- I am Learning **Mastering Firebase: reset Pass, email Verification, push notifictions, firestore, storage**
  
 
 
