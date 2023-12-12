@@ -7,9 +7,7 @@
 
 
 - 🔭 I’m currently working on **note app using Firebase**
-- i am currently learning **BloC, Figma, Firebase auth, Firebase Email Verification, Firebase Push Notification, storage and database, as well as rest APIs**
-- looking for a flutter Development position
-- currently trying to Master Firebase 
+- I am Learning **Mastering Firebase**
  
 
 
