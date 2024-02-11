@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **an app for the Syrian community to be closer together**
-- I am Learning **Mastering Firebase: reset Pass, email Verification, push notifictions, firestore, storage**
+- I am Learning **bloc Cubit and Bloc**
  
 
 
