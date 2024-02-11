@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on **an app for the Syrian community to be closer together**
-- I am Learning **bloc Cubit and Bloc**
+- I am Learning **bloc Cubit and Bloc along with Firebase FCM, Firestore Storage and other Firebase tools**
  
 
 
