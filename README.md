@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on **an app for the Syrian community to be closer together**
 - I am Learning **bloc Cubit and Bloc along with Firebase FCM, Firestore Storage and other Firebase tools i am also trying to learn Localizations**
- 
-
+- always trying to learn something 
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
   **https://www.linkedin.com/in/amjad-yabroudi/**
