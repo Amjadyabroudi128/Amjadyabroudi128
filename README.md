@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amjadyabroudi" target="blank"><img src="https://img.shields.io/twitter/follow/amjadyabroudi?logo=twitter&style=for-the-badge" alt="amjadyabroudi" /></a> </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amjadyabroudi128" alt="GitHub Streak" /></a>
 
 - 🔭 I’m currently working on **an app for the Syrian community to be closer together**
 - I am Learning **bloc Cubit and Bloc along with Firebase FCM, Firestore Storage and other Firebase tools i am also trying to learn Localizations**
