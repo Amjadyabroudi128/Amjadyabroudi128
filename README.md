@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amjadyabroudi128)](https://git.io/streak-stats)
 - 🤓 always trying to learn something new 
 - 🔭 I’m currently working on **a tic_tac_toe app**
-- I am Learning **Flutter Animatio, HERO ANIMATION, Widget Transitions**
+- I am Learning **Flutter Animation, HERO ANIMATION, Widget Transitions**
 - always trying to learn something 
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
