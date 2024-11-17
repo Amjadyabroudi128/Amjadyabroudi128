@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amjadyabroudi128)](https://git.io/streak-stats)
 - 🤓 always trying to learn something new 
-- 🔭 I’m currently working on **halloween app**
+- 🔭 I’m currently working on **colors generator**
 - I am Learning **Flutter Animation, HERO ANIMATION, Widget Transitions zap Navigation**
 - always trying to learn something 
 
