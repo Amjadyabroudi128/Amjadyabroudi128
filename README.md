@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Amjad yabroudi</h1>
-<h3 align="center"> software engineer graduate/flutter developer</h3>
+<h3 align="center">I am a Flutter Developer with over 2 years of Personal Experience </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadyabroudi128&label=Profile%20views&color=0e75b6&style=flat" alt="amjadyabroudi128" /> </p>
 
