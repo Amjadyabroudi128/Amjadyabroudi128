@@ -8,7 +8,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=amjadyabroudi128)](https://git.io/streak-stats)
 - 🤓 always trying to learn something new 
 - 🔭 I’m currently working on **simple download btn**
-- I am Learning **Flutter Animation, HERO ANIMATION, Widget Transitions zap Navigation, Supabase**
+- I am Learning **Supabase, bloc/cubit MVVM animation in flutter**
 - always trying to learn something 
 
 - 📫 How to reach me **amjadyabroudi.20@gmail.com**
