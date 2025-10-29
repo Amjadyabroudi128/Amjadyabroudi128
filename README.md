@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Amjad yabroudi</h1>
-<h3 align="center">I am a Flutter Developer with over 2 years of Personal Experience </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadyabroudi128&label=Profile%20views&color=0e75b6&style=flat" alt="amjadyabroudi128" /> </p>
-
+ # :thought_balloon: About me 
+ I am a Flutter Developer with over 2 years of personal and commercial experience 
 <p align="left"> <a href="https://twitter.com/amjadyabroudi" target="blank"><img src="https://img.shields.io/twitter/follow/amjadyabroudi?logo=twitter&style=for-the-badge" alt="amjadyabroudi" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amjadyabroudi128)](https://git.io/streak-stats)
 - 🤓 always trying to learn something new 
 - 🔭 I’m currently working on **whatsapp app**
 - I am Learning **Supabase, bloc/cubit MVVM animation in flutter**
