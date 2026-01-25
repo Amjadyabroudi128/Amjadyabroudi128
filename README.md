@@ -4,7 +4,7 @@
  I am a Flutter Developer with over 2 years of personal and commercial experience 
 <p align="left"> <a href="https://twitter.com/amjadyabroudi" target="blank"><img src="https://img.shields.io/twitter/follow/amjadyabroudi?logo=twitter&style=for-the-badge" alt="amjadyabroudi" /></a> </p>
 
-- 🤓 always trying to learn something new 
+- 🤓 always trying to learn something new I am currently trying to learn sales to improve my commuinication skills 
 - 🔭 I’m currently working on **whatsapp app**
 - I am Learning **Supabase, bloc/cubit MVVM animation in flutter**
 - always trying to learn something 
